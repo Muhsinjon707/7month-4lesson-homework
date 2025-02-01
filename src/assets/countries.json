@@ -3,175 +3,169 @@
         {
             "name": "Uzbekistan",
             "code": "+998",
-            "flag": "\ud83c\uddfa\ud83c\uddff",
+            "flag": "https://flagsapi.com/UZ/flat/64.png",
             "number_length": 9
         },
         {
             "name": "United States",
             "code": "+1",
-            "flag": "\ud83c\uddfa\ud83c\uddf8",
+            "flag": "https://flagsapi.com/US/flat/64.png",
             "number_length": 10
         },
         {
             "name": "Russia",
             "code": "+7",
-            "flag": "\ud83c\uddf7\ud83c\uddfa",
+            "flag": "https://flagsapi.com/RU/flat/64.png",
             "number_length": 10
         },
         {
             "name": "United Kingdom",
             "code": "+44",
-            "flag": "\ud83c\uddec\ud83c\udde7",
+            "flag": "https://flagsapi.com/GB/flat/64.png",
             "number_length": 10
         },
         {
             "name": "China",
             "code": "+86",
-            "flag": "\ud83c\udde8\ud83c\uddf3",
+            "flag": "https://flagsapi.com/CN/flat/64.png",
             "number_length": 11
         },
         {
             "name": "Germany",
             "code": "+49",
-            "flag": "\ud83c\udde9\ud83c\uddea",
+            "flag": "https://flagsapi.com/DE/flat/64.png",
             "number_length": 10
         },
         {
             "name": "France",
             "code": "+33",
-            "flag": "\ud83c\uddeb\ud83c\uddf7",
+            "flag": "https://flagsapi.com/FR/flat/64.png",
             "number_length": 9
         },
         {
             "name": "India",
             "code": "+91",
-            "flag": "\ud83c\uddee\ud83c\uddf3",
+            "flag": "https://flagsapi.com/IN/flat/64.png",
             "number_length": 10
         },
         {
             "name": "Japan",
             "code": "+81",
-            "flag": "\ud83c\uddef\ud83c\uddf5",
+            "flag": "https://flagsapi.com/JP/flat/64.png",
             "number_length": 10
         },
         {
             "name": "Turkey",
             "code": "+90",
-            "flag": "\ud83c\uddf9\ud83c\uddf7",
-            "number_length": 10
-        },
-        {
-            "name": "South Korea",
-            "code": "+82",
-            "flag": "\ud83c\uddf0\ud83c\uddf7",
-            "number_length": 10
-        },
-        {
-            "name": "Italy",
-            "code": "+39",
-            "flag": "\ud83c\uddee\ud83c\uddf9",
+            "flag": "https://flagsapi.com/TR/flat/64.png",
             "number_length": 10
         },
         {
             "name": "Brazil",
             "code": "+55",
-            "flag": "\ud83c\udde7\ud83c\uddf7",
+            "flag": "https://flagsapi.com/BR/flat/64.png",
             "number_length": 11
         },
         {
             "name": "Canada",
             "code": "+1",
-            "flag": "\ud83c\udde8\ud83c\udde6",
+            "flag": "https://flagsapi.com/CA/flat/64.png",
             "number_length": 10
         },
         {
             "name": "Saudi Arabia",
             "code": "+966",
-            "flag": "\ud83c\uddf8\ud83c\udde6",
+            "flag": "https://flagsapi.com/SA/flat/64.png",
             "number_length": 9
         },
         {
             "name": "United Arab Emirates",
             "code": "+971",
-            "flag": "\ud83c\udde6\ud83c\uddea",
+            "flag": "https://flagsapi.com/AE/flat/64.png",
             "number_length": 9
         },
         {
-            "name": "Kazakhstan",
-            "code": "+7",
-            "flag": "\ud83c\uddf0\ud83c\uddff",
+            "name": "South Korea",
+            "code": "+82",
+            "flag": "https://flagsapi.com/KR/flat/64.png",
             "number_length": 10
         },
         {
-            "name": "Pakistan",
-            "code": "+92",
-            "flag": "\ud83c\uddf5\ud83c\uddf0",
-            "number_length": 10
-        },
-        {
-            "name": "Egypt",
-            "code": "+20",
-            "flag": "\ud83c\uddea\ud83c\uddec",
+            "name": "Italy",
+            "code": "+39",
+            "flag": "https://flagsapi.com/IT/flat/64.png",
             "number_length": 10
         },
         {
             "name": "Argentina",
             "code": "+54",
-            "flag": "\ud83c\udde6\ud83c\uddf7",
+            "flag": "https://flagsapi.com/AR/flat/64.png",
             "number_length": 10
         },
         {
             "name": "Mexico",
             "code": "+52",
-            "flag": "\ud83c\uddf2\ud83c\uddfd",
+            "flag": "https://flagsapi.com/MX/flat/64.png",
             "number_length": 10
-        },
-        {
-            "name": "Spain",
-            "code": "+34",
-            "flag": "\ud83c\uddea\ud83c\uddf8",
-            "number_length": 9
         },
         {
             "name": "South Africa",
             "code": "+27",
-            "flag": "\ud83c\uddff\ud83c\udde6",
+            "flag": "https://flagsapi.com/ZA/flat/64.png",
             "number_length": 9
         },
         {
             "name": "Nigeria",
             "code": "+234",
-            "flag": "\ud83c\uddf3\ud83c\uddec",
+            "flag": "https://flagsapi.com/NG/flat/64.png",
             "number_length": 10
         },
         {
             "name": "Indonesia",
             "code": "+62",
-            "flag": "\ud83c\uddee\ud83c\udde9",
+            "flag": "https://flagsapi.com/ID/flat/64.png",
             "number_length": 10
         },
         {
             "name": "Malaysia",
             "code": "+60",
-            "flag": "\ud83c\uddf2\ud83c\udde8",
+            "flag": "https://flagsapi.com/MY/flat/64.png",
             "number_length": 9
         },
         {
             "name": "Vietnam",
             "code": "+84",
-            "flag": "\ud83c\uddfb\ud83c\uddf3",
+            "flag": "https://flagsapi.com/VN/flat/64.png",
             "number_length": 9
         },
         {
             "name": "Thailand",
             "code": "+66",
-            "flag": "\ud83c\uddf9\ud83c\udded",
+            "flag": "https://flagsapi.com/TH/flat/64.png",
             "number_length": 9
         },
         {
             "name": "Bangladesh",
             "code": "+880",
-            "flag": "\ud83c\udde7\ud83c\udded",
+            "flag": "https://flagsapi.com/BD/flat/64.png",
+            "number_length": 10
+        },
+        {
+            "name": "Spain",
+            "code": "+34",
+            "flag": "https://flagsapi.com/ES/flat/64.png",
+            "number_length": 9
+        },
+        {
+            "name": "Egypt",
+            "code": "+20",
+            "flag": "https://flagsapi.com/EG/flat/64.png",
+            "number_length": 10
+        },
+        {
+            "name": "Pakistan",
+            "code": "+92",
+            "flag": "https://flagsapi.com/PK/flat/64.png",
             "number_length": 10
         }
     ]
